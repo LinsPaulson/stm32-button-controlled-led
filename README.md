@@ -6,6 +6,6 @@ A user button connected to **PC13** controls an LED on **PA5**:
 - Button pressed → LED ON  
 - Button released → LED OFF  
 
-This modular approach (separating `gpio.c`, `gpio.h`, and `main.c`) reflects real embedded coding practices used in industry.
+This modular approach (separating `gpio.c`, `gpio.h` and `main.c`) reflects real embedded coding practices used in industry.
 
 ---
